@@ -26,6 +26,7 @@ Criar uma interface visual para construção do Mapa entrando com as informaçõ
   public class MapaJogo {
   public class Trajeto {
   ```
+___
 
 ##	Construção de Locais de Mapas – CidadeMapa
 Este módulo irá somente criar os locais de mapa que serão futuramente escolhidos pelos construtores de mapas. 
@@ -46,6 +47,8 @@ public abstract class LocalMapa extends LocalJogo{
 public class CidadeMapa extends LocalMapa{
 ```
 
+___
+
 ##	Construção de Locais de Mapas –CavernaMapa
 Este módulo irá somente criar os locais de mapa que serão futuramente escolhidos pelos construtores de mapas. 
 Criar uma interface visual para construção do local entrando com as informações básicas do local assim como as informações extras referentes a este tipo de local e eventualmente ao tipo de classe de um local especifico como “Caverna de Smaug”, por exemplo, teria um atributo nome do monstro.
@@ -63,6 +66,8 @@ public abstract class LocalMapa extends LocalJogo{
 ```java
 public class CavernaMapa extends LocalMapa{ 
 ```
+
+___
 
 ## Construção de Locais de Mapas – LagoMapa
 Este módulo irá somente criar os locais de mapa que serão futuramente escolhidos pelos construtores de mapas. 
@@ -83,6 +88,8 @@ public abstract class LocalMapa extends LocalJogo{
 public class LagoMapa extends LocalMapa{
 ```
 
+___
+
 ##	Construção de Locais de Mapas –  RioMapa
 Este módulo irá somente criar os locais de mapa que serão futuramente escolhidos pelos construtores de mapas. 
 Criar uma interface visual para construção do local entrando com as informações básicas do local assim como as informações extras referentes a este tipo de local e eventualmente ao tipo de classe de um local especifico como “Rio de Rivendel”, por exemplo, teria um atributo povo que vive lá.
@@ -102,6 +109,7 @@ public abstract class LocalMapa extends LocalJogo{
 public class RioMapa extends LocalMapa{
 ```
  
+ ___
  
 ##	Construção de Locais de Mapas – TavernaMapa
 Este módulo irá somente criar os locais de mapa que serão futuramente escolhidos pelos construtores de mapas. 
