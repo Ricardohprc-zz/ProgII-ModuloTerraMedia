@@ -1,8 +1,8 @@
-MODULO TERRAMEDIA
+# MODULO TERRAMEDIA
 
 - Ricardo Henrique P. R. Castro - Ricardohcastro@hotmail.com
 
-#Descrição do Trabalho
+# Descrição do Trabalho
 ##	 Construção de Mapas
 Este módulo irá criar os mapas que serão futuramente escolhidos pelos construtores das missões dos jogos. 
 Criar uma interface visual para construção do Mapa entrando com as informações básicas do Mapa e além disso:
